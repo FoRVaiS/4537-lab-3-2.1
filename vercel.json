@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/comp4537/labs/3/api/v1/(.*)", "destination": "/api/server" }
+  ]
+}
